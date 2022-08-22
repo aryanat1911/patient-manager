@@ -1,0 +1,29 @@
+h5 {
+  margin: 0px 0 15px 0;
+  text-decoration: underline;
+}
+
+form {
+  background-color: rgb(214, 224, 228);
+  border: 5px solid rgba(128, 128, 128, 0.555);
+  padding: 10px 15px;
+}
+
+.submit-btn {
+  border: none;
+  padding: 12px 25px;
+  background-color: green;
+  color: white;
+}
+
+input,
+select {
+  margin-bottom: 20px;
+}
+
+#personal-details,
+#contact-details,
+#address-details,
+#other-details {
+  padding: 15px 0;
+}
